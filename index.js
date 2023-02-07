@@ -1,4 +1,4 @@
-    
+ //This file will help you find the coordinates on the map   
     function q (text) {
         let chars = text.split('').map(function(symbol) {
             return symbol.charCodeAt();
